@@ -1,0 +1,22 @@
+{
+    "name": "@yutengjing/cspell-config",
+    "version": "0.0.0",
+    "description": "my personal cspell config",
+    "main": "cspell.config.json",
+    "license": "MIT",
+    "homepage": "https://github.com/tjx666/cspell-config",
+    "author": {
+        "name": "YuTengjing",
+        "url": "https://github.com/tjx666",
+        "email": "ytj2713151713@gmail.com"
+    },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/",
+        "access": "public"
+    },
+    "keywords": [
+        "cspell",
+        "dictionary",
+        "dict"
+    ]
+}
