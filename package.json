@@ -3,6 +3,9 @@
     "version": "0.0.1",
     "description": "my personal cspell config",
     "main": "cspell.config.json",
+    "files": [
+        "words.txt"
+    ],
     "license": "MIT",
     "homepage": "https://github.com/tjx666/cspell-config",
     "author": {
