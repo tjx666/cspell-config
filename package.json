@@ -1,6 +1,6 @@
 {
     "name": "@yutengjing/cspell-config",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "my personal cspell config",
     "main": "cspell.config.json",
     "files": [
