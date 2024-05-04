@@ -34,6 +34,7 @@ broot
 brotli
 browserslist
 bumpp
+bundlephobia
 bunx
 camelize
 caniuse
@@ -131,12 +132,14 @@ huoshan
 hybird
 iconfont
 iconfx
+iconify
 iife
 imgur
 immer
 importmap
 indesign
 inpaint
+inpainting
 instanceof
 intelisence
 ipfs
@@ -173,6 +176,7 @@ modeless
 nativebird
 neofetch
 neovim
+nextjs
 nicoespeon
 nocheck
 nodenext
@@ -193,10 +197,12 @@ octotree
 okhttp
 onced
 onefetch
+openart
 opentype
 osascript
 outliner
 ovsx
+pacote
 pako
 pangu
 parens
@@ -302,6 +308,7 @@ typeorm
 typora
 ugit
 uglifyjs
+uicons
 unarchiver
 unpipe
 unplugin
@@ -309,6 +316,7 @@ unshift
 unstage
 unzipper
 upng
+usecases
 userscript
 uxms
 vben
@@ -327,6 +335,7 @@ vuex
 wappalyzer
 webext
 webpackbar
+webui
 weex
 weibo
 whereami
